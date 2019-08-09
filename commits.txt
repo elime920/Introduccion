@@ -1,0 +1,17 @@
+commit 1fa0b8532d5bcd3b43f779fd4156f30f5693e88e
+Author: elime920 <elizabeth.jimenez@udea.edu.co>
+Date:   Thu Aug 8 20:07:09 2019 -0500
+
+    segunda modificacion
+
+commit e677d075704c103d889d2b97a4177048b23bca0b
+Author: elime920 <elizabeth.jimenez@udea.edu.co>
+Date:   Thu Aug 8 20:05:33 2019 -0500
+
+    Primera modificacion
+
+commit 60d4931d5afa7be494f7176bf165e3d7696bd5e6
+Author: elime920 <elizabeth.jimenez@udea.edu.co>
+Date:   Thu Aug 8 19:51:25 2019 -0500
+
+    primer archivo
